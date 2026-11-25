@@ -1,0 +1,7 @@
+# Smart Bank Management System
+
+# Python standard libraries used:
+# tkinter
+# datetime
+# math
+# random
